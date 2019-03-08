@@ -1,0 +1,31 @@
+body {
+    background-color:antiquewhite;
+}
+.main{
+    height:40em;
+    font-size:14px;
+    background-color: darkgoldenrod;
+    font-family: "Arial Rounded MT Bold";
+    color:whitesmoke;
+
+}
+.login {
+    padding-left:17em;
+    position:relative;
+    color:black;
+}
+.username {
+    top:6em;
+    padding-left:17em;
+    position:relative;
+    width: 20em;
+    height:30em;
+    border: 2px whitesmoke;
+    font-size:18px;
+}
+.form-control {
+    width:20em;
+}
+.email {
+    width:6em;
+}
